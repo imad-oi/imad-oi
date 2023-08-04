@@ -21,7 +21,7 @@
  </div>
  
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,materialui,tailwind,express,java,spring,mysql,mongo,next,react,redux,angular,aws,jenkins,kubernetes,docker,vim,c,php,py,linux,bash,wordpress,sequelize,prisma,postman,jest,idea,vscode,git,github,firebase,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,materialui,tailwind,express,java,spring,mysql,mongo,next,react,redux,angular,aws,jenkins,kubernetes,docker,vim,c,php,py,linux,bash,wordpress,sequelize,prisma,postman,jest,idea,vscode,git,github,firebase,figma)](#)
 
 
 
@@ -30,7 +30,7 @@
  </div>
  
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=linkedin,twitter,instagram,discord,stackoverflow" />
   </a>
 </p>
