@@ -31,7 +31,7 @@
  
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=linkedin,twitter,instagram,discord,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=linkedin,twitter,discord,stackoverflow" />
   </a>
 </p>
 
