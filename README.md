@@ -21,7 +21,7 @@
  </div>
  
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,materialui,tailwind,express,java,spring,mysql,mongo,next,react,redux,angular,aws,jenkins,kubernetes,docker,vim,c,php,py,linux,bash,wordpress,sequelize,prisma,postman,jest,idea,vscode,git,github,firebase,figma)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,materialui,tailwind,express,java,spring,mysql,mongo,next,react,redux,angular,docker,vim,c,php,py,linux,bash,wordpress,sequelize,prisma,postman,jest,idea,vscode,git,github,firebase,figma)](#)
 
 
 
