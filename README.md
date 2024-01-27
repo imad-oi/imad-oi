@@ -10,9 +10,9 @@
 </div>
 
 
--   🔭  I’m currently working on  **React, Next  , Java/JEE**
+-   🔭  I’m currently working on  **React, Next, NodeJS, Java/Sping Boot**
 -   🧑‍💻  I love using Software as a solution for every  `Problem`.
--   🧑‍🎓 Master's student in Artificial Intelligence and Computer Engineering
+-   🧑‍🎓  Master's student in Artificial Intelligence and Computer Engineering
 -   🤓  Always  `learning new things`.    
 -   📫  Feel free to reach me out  **[oissafe.imad@gmail.com](mailto:oissafe.imad@gmail.com)**
 
@@ -21,7 +21,7 @@
  </div>
  
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,materialui,tailwind,express,java,spring,mysql,mongo,next,react,redux,angular,docker,vim,c,php,py,linux,bash,wordpress,sequelize,prisma,postman,jest,idea,vscode,git,github,firebase,figma)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,express,java,spring,mysql,mongo,next,react,redux,angular,docker,c,php,py,linux,bash,wordpress,postman,idea,vscode,git,github,firebase,figma)](#)
 
 
 
